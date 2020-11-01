@@ -1,4 +1,4 @@
-import random,string
+import random
 
 print("Bienvenido a un generador de contraseñas.")
 print("Elige la opción de seguridad de su contraseña")
